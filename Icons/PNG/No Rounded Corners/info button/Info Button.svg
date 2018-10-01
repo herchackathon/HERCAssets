@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="129px" height="26px" viewBox="0 0 129 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Info Button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="129" height="26"></rect>
+    </defs>
+    <g id="Icon-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-2" transform="translate(-12.000000, -49.000000)">
+            <g id="Info-Button" transform="translate(12.000000, 49.000000)">
+                <g id="Group-Copy-2">
+                    <text id="INFO" font-family="DINPro-Regular, DINPro" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="48.792" y="18">INFO</tspan>
+                    </text>
+                    <g id="Group">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" opacity="0.25" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)" id="Group-2" opacity="0.25">
+                            <g transform="translate(-12.000000, -57.000000)">
+                                <g transform="translate(93.489789, 68.541957) rotate(9.000000) translate(-93.489789, -68.541957) translate(7.989789, 13.041957)">
+                                    <g id="ConstellationVirgo" opacity="0.2" transform="translate(63.000000, 46.000000)" fill-rule="nonzero">
+                                        <rect id="rect3400" x="0" y="0" width="43" height="43"></rect>
+                                        <circle id="circle3402" stroke="#FFFFFF" fill="#FFFFFF" cx="38.0687179" cy="14.3898801" r="1"></circle>
+                                        <circle id="circle3404" stroke="#FFFFFF" fill="#FFFFFF" cx="37.2358859" cy="18.0165212" r="1"></circle>
+                                        <path d="M38.0687178,14.3898801 L37.2358859,18.0165213" id="line3406" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3408" stroke="#FFFFFF" fill="#FFFFFF" cx="31.8164824" cy="18.7938285" r="1"></circle>
+                                        <path d="M37.2358859,18.0165213 L31.8164824,18.7938286" id="line3410" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3412" stroke="#FFFFFF" fill="#FFFFFF" cx="27.7471327" cy="20.3571587" r="1"></circle>
+                                        <path d="M31.8164824,18.7938286 L27.7471328,20.3571587" id="line3414" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3416" stroke="#FFFFFF" fill="#FFFFFF" cx="22.4432527" cy="23.4059387" r="1"></circle>
+                                        <path d="M27.7471328,20.3571587 L22.4432526,23.4059386" id="line3418" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <path d="M22.4432526,23.4059386 L19.6190632,27.6234527" id="line3422" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3424" stroke="#FFFFFF" fill="#FFFFFF" cx="17.8041296" cy="18.8075417" r="1"></circle>
+                                        <path d="M19.6190632,27.6234527 L17.8041296,18.8075416" id="line3426" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3428" stroke="#FFFFFF" fill="#FFFFFF" cx="25.1365706" cy="16.7048995" r="1"></circle>
+                                        <path d="M17.8041296,18.8075416 L25.1365706,16.7048996" id="line3430" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <path d="M25.1365706,16.7048996 L27.7471328,20.3571587" id="line3432" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3434" stroke="#FFFFFF" fill="#FFFFFF" cx="23.8788989" cy="11.0491093" r="1"></circle>
+                                        <path d="M25.1365706,16.7048996 L23.8788989,11.0491093" id="line3436" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3438" stroke="#FFFFFF" fill="#FFFFFF" cx="10.1452833" cy="23.8504024" r="1"></circle>
+                                        <path d="M19.6190632,27.6234527 L10.1452832,23.8504024" id="line3440" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3442" stroke="#FFFFFF" fill="#FFFFFF" cx="5.15684853" cy="23.6977218" r="1"></circle>
+                                        <path d="M10.1452832,24.0527928 L5.15684857,23.6977219" id="line3444" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3446" stroke="#FFFFFF" fill="#FFFFFF" cx="12.7594876" cy="18.1192061" r="1"></circle>
+                                        <path d="M17.8041296,18.8075416 L12.7594876,18.1192061" id="line3448" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3450" stroke="#FFFFFF" fill="#FFFFFF" cx="4.48610938" cy="17.9346896" r="1"></circle>
+                                        <path d="M12.7594876,18.3637976 L4.48610947,17.9346896" id="line3452" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                    </g>
+                                    <g id="ConstellationVirgo-Copy" opacity="0.2" transform="translate(47.000000, 35.000000)" fill-rule="nonzero">
+                                        <rect id="rect3400" x="0" y="0" width="43" height="43"></rect>
+                                        <circle id="circle3402" stroke="#FFFFFF" fill="#FFFFFF" cx="38.0687179" cy="14.3898801" r="1"></circle>
+                                        <circle id="circle3404" stroke="#FFFFFF" fill="#FFFFFF" cx="37.2358859" cy="18.0165212" r="1"></circle>
+                                        <path d="M38.0687178,14.3898801 L37.2358859,18.0165213" id="line3406" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3408" stroke="#FFFFFF" fill="#FFFFFF" cx="31.8164824" cy="18.7938285" r="1"></circle>
+                                        <path d="M37.2358859,18.0165213 L31.8164824,18.7938286" id="line3410" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3412" stroke="#FFFFFF" fill="#FFFFFF" cx="27.7471327" cy="20.3571587" r="1"></circle>
+                                        <path d="M31.8164824,18.7938286 L27.7471328,20.3571587" id="line3414" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3416" stroke="#FFFFFF" fill="#FFFFFF" cx="22.4432527" cy="23.4059387" r="1"></circle>
+                                        <path d="M27.7471328,20.3571587 L22.4432526,23.4059386" id="line3418" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3420" stroke="#FFFFFF" fill="#FFFFFF" cx="19.6190633" cy="27.6234526" r="1"></circle>
+                                        <path d="M22.4432526,23.4059386 L19.6190632,27.6234527" id="line3422" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3424" stroke="#FFFFFF" fill="#FFFFFF" cx="17.8041296" cy="18.8075417" r="1"></circle>
+                                        <path d="M19.6190632,27.6234527 L17.8041296,18.8075416" id="line3426" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3428" stroke="#FFFFFF" fill="#FFFFFF" cx="25.1365706" cy="16.7048995" r="1"></circle>
+                                        <path d="M17.8041296,18.8075416 L25.1365706,16.7048996" id="line3430" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <path d="M25.1365706,16.7048996 L27.7471328,20.3571587" id="line3432" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3434" stroke="#FFFFFF" fill="#FFFFFF" cx="23.8788989" cy="11.0491093" r="1"></circle>
+                                        <path d="M25.1365706,16.7048996 L23.8788989,11.0491093" id="line3436" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3438" stroke="#FFFFFF" fill="#FFFFFF" cx="10.1452833" cy="23.8504024" r="1"></circle>
+                                        <path d="M19.6190632,27.6234527 L10.1452832,23.8504024" id="line3440" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3442" stroke="#FFFFFF" fill="#FFFFFF" cx="5.15684853" cy="23.6977218" r="1"></circle>
+                                        <path d="M10.1452832,24.0527928 L5.15684857,23.6977219" id="line3444" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3446" stroke="#FFFFFF" fill="#FFFFFF" cx="12.7594876" cy="18.1192061" r="1"></circle>
+                                        <path d="M17.8041296,18.8075416 L12.7594876,18.1192061" id="line3448" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3450" stroke="#FFFFFF" fill="#FFFFFF" cx="4.48610938" cy="17.9346896" r="1"></circle>
+                                        <path d="M12.7594876,18.3637976 L4.48610947,17.9346896" id="line3452" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                    </g>
+                                    <g id="ConstellationVirgo-Copy-2" opacity="0.2" transform="translate(30.000000, 24.000000)" fill-rule="nonzero">
+                                        <rect id="rect3400" x="0" y="0" width="43" height="43"></rect>
+                                        <circle id="circle3420" stroke="#FFFFFF" fill="#FFFFFF" cx="19.6190633" cy="27.6234526" r="1"></circle>
+                                        <path d="M22.4432526,23.4059386 L19.6190632,27.6234527" id="line3422" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <path d="M19.6190632,27.6234527 L17.8041296,18.8075416" id="line3426" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <path d="M19.6190632,27.6234527 L10.1452832,23.8504024" id="line3440" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                    </g>
+                                    <g id="ConstellationVirgo-Copy-3" opacity="0.2" transform="translate(52.918151, 69.339064) rotate(-83.000000) translate(-52.918151, -69.339064) translate(31.418151, 47.839064)" fill-rule="nonzero">
+                                        <rect id="rect3400" x="0" y="0" width="43" height="43"></rect>
+                                        <circle id="circle3402" stroke="#FFFFFF" fill="#FFFFFF" cx="38.0687179" cy="14.3898801" r="1"></circle>
+                                        <circle id="circle3404" stroke="#FFFFFF" fill="#FFFFFF" cx="37.2358859" cy="18.0165212" r="1"></circle>
+                                        <path d="M38.0687178,14.3898801 L37.2358859,18.0165213" id="line3406" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3408" stroke="#FFFFFF" fill="#FFFFFF" cx="31.8164824" cy="18.7938285" r="1"></circle>
+                                        <path d="M37.2358859,18.0165213 L31.8164824,18.7938286" id="line3410" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3412" stroke="#FFFFFF" fill="#FFFFFF" cx="27.7471327" cy="20.3571587" r="1"></circle>
+                                        <path d="M31.8164824,18.7938286 L27.7471328,20.3571587" id="line3414" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3416" stroke="#FFFFFF" fill="#FFFFFF" cx="22.4432527" cy="23.4059387" r="1"></circle>
+                                        <path d="M27.7471328,20.3571587 L22.4432526,23.4059386" id="line3418" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3420" stroke="#FFFFFF" fill="#FFFFFF" cx="19.6190633" cy="27.6234526" r="1"></circle>
+                                        <path d="M22.4432526,23.4059386 L19.6190632,27.6234527" id="line3422" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3424" stroke="#FFFFFF" fill="#FFFFFF" cx="17.8041296" cy="18.8075417" r="1"></circle>
+                                        <path d="M19.6190632,27.6234527 L17.8041296,18.8075416" id="line3426" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3428" stroke="#FFFFFF" fill="#FFFFFF" cx="25.1365706" cy="16.7048995" r="1"></circle>
+                                        <path d="M17.8041296,18.8075416 L25.1365706,16.7048996" id="line3430" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <path d="M25.1365706,16.7048996 L27.7471328,20.3571587" id="line3432" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3434" stroke="#FFFFFF" fill="#FFFFFF" cx="23.8788989" cy="11.0491093" r="1"></circle>
+                                        <path d="M25.1365706,16.7048996 L23.8788989,11.0491093" id="line3436" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <path d="M19.6190632,27.6234527 L10.1452832,23.8504024" id="line3440" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <path d="M17.8041296,18.8075416 L12.7594876,18.1192061" id="line3448" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                    </g>
+                                    <g id="ConstellationVirgo-Copy-4" opacity="0.2" transform="translate(30.078530, 76.895424) rotate(-29.000000) translate(-30.078530, -76.895424) translate(8.578530, 55.395424)" fill-rule="nonzero">
+                                        <rect id="rect3400" x="0" y="0" width="43" height="43"></rect>
+                                        <circle id="circle3402" stroke="#FFFFFF" fill="#FFFFFF" cx="38.0687179" cy="14.3898801" r="1"></circle>
+                                        <circle id="circle3404" stroke="#FFFFFF" fill="#FFFFFF" cx="37.2358859" cy="18.0165212" r="1"></circle>
+                                        <path d="M38.0687178,14.3898801 L37.2358859,18.0165213" id="line3406" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3408" stroke="#FFFFFF" fill="#FFFFFF" cx="31.8164824" cy="18.7938285" r="1"></circle>
+                                        <path d="M37.2358859,18.0165213 L31.8164824,18.7938286" id="line3410" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3412" stroke="#FFFFFF" fill="#FFFFFF" cx="27.7471327" cy="20.3571587" r="1"></circle>
+                                        <path d="M31.8164824,18.7938286 L27.7471328,20.3571587" id="line3414" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3416" stroke="#FFFFFF" fill="#FFFFFF" cx="22.4432527" cy="23.4059387" r="1"></circle>
+                                        <path d="M27.7471328,20.3571587 L22.4432526,23.4059386" id="line3418" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <path d="M22.4432526,23.4059386 L19.6190632,27.6234527" id="line3422" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3424" stroke="#FFFFFF" fill="#FFFFFF" cx="17.8041296" cy="18.8075417" r="1"></circle>
+                                        <path d="M19.6190632,27.6234527 L17.8041296,18.8075416" id="line3426" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3428" stroke="#FFFFFF" fill="#FFFFFF" cx="25.1365706" cy="16.7048995" r="1"></circle>
+                                        <path d="M17.8041296,18.8075416 L25.1365706,16.7048996" id="line3430" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <path d="M25.1365706,16.7048996 L27.7471328,20.3571587" id="line3432" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3434" stroke="#FFFFFF" fill="#FFFFFF" cx="23.8788989" cy="11.0491093" r="1"></circle>
+                                        <path d="M25.1365706,16.7048996 L23.8788989,11.0491093" id="line3436" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3446" stroke="#FFFFFF" fill="#FFFFFF" cx="12.7594876" cy="18.1192061" r="1"></circle>
+                                        <path d="M17.8041296,18.8075416 L12.7594876,18.1192061" id="line3448" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        <circle id="circle3450" stroke="#FFFFFF" fill="#FFFFFF" cx="4.48610938" cy="17.9346896" r="1"></circle>
+                                        <path d="M12.7594876,18.3637976 L4.48610947,17.9346896" id="line3452" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                    </g>
+                                    <g id="Group-3" transform="translate(113.073924, 45.090589) rotate(416.000000) translate(-113.073924, -45.090589) translate(74.573924, 3.590589)" fill-rule="nonzero" opacity="0.2">
+                                        <g id="ConstellationVirgo-Copy-7" transform="translate(29.261300, 0.613932)">
+                                            <rect id="rect3400" x="0" y="0" width="43" height="43"></rect>
+                                            <circle id="circle3420" stroke="#FFFFFF" fill="#FFFFFF" cx="19.6190633" cy="27.6234526" r="1"></circle>
+                                            <path d="M22.4432526,23.4059386 L19.6190632,27.6234527" id="line3422" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <path d="M19.6190632,27.6234527 L17.8041296,18.8075416" id="line3426" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3438" stroke="#FFFFFF" fill="#FFFFFF" cx="10.1452833" cy="23.8504024" r="1"></circle>
+                                            <path d="M19.6190632,27.6234527 L10.1452832,23.8504024" id="line3440" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        </g>
+                                        <g id="ConstellationVirgo-Copy-6" transform="translate(52.179452, 45.952997) rotate(-83.000000) translate(-52.179452, -45.952997) translate(30.679452, 24.452997)">
+                                            <rect id="rect3400" x="0" y="0" width="43" height="43"></rect>
+                                            <circle id="circle3402" stroke="#FFFFFF" fill="#FFFFFF" cx="38.0687179" cy="14.3898801" r="1"></circle>
+                                            <circle id="circle3404" stroke="#FFFFFF" fill="#FFFFFF" cx="37.2358859" cy="18.0165212" r="1"></circle>
+                                            <path d="M38.0687178,14.3898801 L37.2358859,18.0165213" id="line3406" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3408" stroke="#FFFFFF" fill="#FFFFFF" cx="31.8164824" cy="18.7938285" r="1"></circle>
+                                            <path d="M37.2358859,18.0165213 L31.8164824,18.7938286" id="line3410" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3412" stroke="#FFFFFF" fill="#FFFFFF" cx="27.7471327" cy="20.3571587" r="1"></circle>
+                                            <path d="M31.8164824,18.7938286 L27.7471328,20.3571587" id="line3414" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3416" stroke="#FFFFFF" fill="#FFFFFF" cx="22.4432527" cy="23.4059387" r="1"></circle>
+                                            <path d="M27.7471328,20.3571587 L22.4432526,23.4059386" id="line3418" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3420" stroke="#FFFFFF" fill="#FFFFFF" cx="19.6190633" cy="27.6234526" r="1"></circle>
+                                            <path d="M22.4432526,23.4059386 L19.6190632,27.6234527" id="line3422" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3424" stroke="#FFFFFF" fill="#FFFFFF" cx="17.8041296" cy="18.8075417" r="1"></circle>
+                                            <path d="M19.6190632,27.6234527 L17.8041296,18.8075416" id="line3426" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3428" stroke="#FFFFFF" fill="#FFFFFF" cx="25.1365706" cy="16.7048995" r="1"></circle>
+                                            <path d="M17.8041296,18.8075416 L25.1365706,16.7048996" id="line3430" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <path d="M25.1365706,16.7048996 L27.7471328,20.3571587" id="line3432" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3434" stroke="#FFFFFF" fill="#FFFFFF" cx="23.8788989" cy="11.0491093" r="1"></circle>
+                                            <path d="M25.1365706,16.7048996 L23.8788989,11.0491093" id="line3436" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3438" stroke="#FFFFFF" fill="#FFFFFF" cx="10.1452833" cy="23.8504024" r="1"></circle>
+                                            <path d="M19.6190632,27.6234527 L10.1452832,23.8504024" id="line3440" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <path d="M10.1452832,24.0527928 L5.15684857,23.6977219" id="line3444" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3446" stroke="#FFFFFF" fill="#FFFFFF" cx="12.7594876" cy="18.1192061" r="1"></circle>
+                                            <path d="M17.8041296,18.8075416 L12.7594876,18.1192061" id="line3448" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3450" stroke="#FFFFFF" fill="#FFFFFF" cx="4.48610938" cy="17.9346896" r="1"></circle>
+                                            <path d="M12.7594876,18.3637976 L4.48610947,17.9346896" id="line3452" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        </g>
+                                        <g id="ConstellationVirgo-Copy-5" transform="translate(29.339830, 53.509357) rotate(-29.000000) translate(-29.339830, -53.509357) translate(7.839830, 32.009357)">
+                                            <rect id="rect3400" x="0" y="0" width="43" height="43"></rect>
+                                            <circle id="circle3402" stroke="#FFFFFF" fill="#FFFFFF" cx="38.0687179" cy="14.3898801" r="1"></circle>
+                                            <circle id="circle3404" stroke="#FFFFFF" fill="#FFFFFF" cx="37.2358859" cy="18.0165212" r="1"></circle>
+                                            <path d="M38.0687178,14.3898801 L37.2358859,18.0165213" id="line3406" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3408" stroke="#FFFFFF" fill="#FFFFFF" cx="31.8164824" cy="18.7938285" r="1"></circle>
+                                            <path d="M37.2358859,18.0165213 L31.8164824,18.7938286" id="line3410" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3412" stroke="#FFFFFF" fill="#FFFFFF" cx="27.7471327" cy="20.3571587" r="1"></circle>
+                                            <path d="M31.8164824,18.7938286 L27.7471328,20.3571587" id="line3414" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3416" stroke="#FFFFFF" fill="#FFFFFF" cx="22.4432527" cy="23.4059387" r="1"></circle>
+                                            <path d="M27.7471328,20.3571587 L22.4432526,23.4059386" id="line3418" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3420" stroke="#FFFFFF" fill="#FFFFFF" cx="19.6190633" cy="27.6234526" r="1"></circle>
+                                            <path d="M22.4432526,23.4059386 L19.6190632,27.6234527" id="line3422" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <path d="M19.6190632,27.6234527 L17.8041296,18.8075416" id="line3426" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <circle id="circle3428" stroke="#FFFFFF" fill="#FFFFFF" cx="25.1365706" cy="16.7048995" r="1"></circle>
+                                            <path d="M17.8041296,18.8075416 L25.1365706,16.7048996" id="line3430" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <path d="M25.1365706,16.7048996 L27.7471328,20.3571587" id="line3432" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <path d="M25.1365706,16.7048996 L23.8788989,11.0491093" id="line3436" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                            <path d="M19.6190632,27.6234527 L10.1452832,23.8504024" id="line3440" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

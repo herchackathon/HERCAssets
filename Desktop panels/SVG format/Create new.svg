@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="1024px" viewBox="0 0 1440 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop HD Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="343.581395" height="63.8245614" rx="2"></rect>
+    </defs>
+    <g id="Desktop-HD-Copy-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-2" fill="#091141" x="37" y="141" width="1366" height="974" rx="2"></rect>
+        <text id="Create-New" font-family="DINPro-Bold, DINPro" font-size="54" font-weight="bold" fill="#091141">
+            <tspan x="577.211" y="97">Create New</tspan>
+        </text>
+        <g id="Group-4" transform="translate(549.000000, 847.000000)">
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#F3C736" stroke-width="2" x="-1" y="-1" width="345.581395" height="65.8245614" rx="2"></rect>
+            </g>
+            <text id="Next" font-family="DINPro-Regular, DINPro" font-size="32" font-weight="normal" fill="#132C4A">
+                <tspan x="138.348" y="44">Next</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(99.000000, 195.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M26.8245614,10.622807 C26.8245614,10.0028304 26.394712,9.5 25.8647189,9.5 L1.95984246,9.5 C1.42968947,9.5 1,10.0028304 1,10.622807 C1,11.2427836 1.42968947,11.745614 1.95984246,11.745614 L25.8647189,11.745614 C26.394712,11.745614 26.8245614,11.2427836 26.8245614,10.622807 Z" id="Shape" transform="translate(13.912281, 10.622807) rotate(180.000000) translate(-13.912281, -10.622807) "></path>
+            <path d="M0.314313569,19.3360203 C0.047275594,19.6609928 0.047275594,20.1879116 0.314313569,20.5128842 C0.447718632,20.6753011 0.622705974,20.7565789 0.797579392,20.7565789 C0.972452809,20.7565789 1.14744015,20.6753011 1.28084521,20.5128842 L8.91375661,11.2200282 C9.18079458,10.8950557 9.18079458,10.3681369 8.91375661,10.0431643 L1.28084521,0.750308367 C1.01403509,0.425335807 0.581009771,0.425335807 0.314313569,0.750308367 C0.047275594,1.07528093 0.047275594,1.60219973 0.314313569,1.92717229 L7.46384521,10.6315269 L0.314313569,19.3360203 Z" id="Shape" transform="translate(4.614035, 10.631579) rotate(180.000000) translate(-4.614035, -10.631579) "></path>
+        </g>
+        <g id="Group-Copy" transform="translate(468.000000, 183.000000)" font-family="DINPro-Bold, DINPro" font-size="36" font-weight="bold">
+            <text id="Please-enter-new-IGV">
+                <tspan x="0" y="37" fill="#FFFFFF">Please enter new </tspan>
+                <tspan x="292.896" y="37" fill="#ECC41F">IGVC</tspan>
+                <tspan x="370.044" y="37" fill="#FFFFFF"> params</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(487.000000, 299.000000)">
+            <g id="Group-2" transform="translate(83.000000, 3.000000)"></g>
+            <rect id="Rectangle" fill="#FFFFFF" x="186" y="82" width="281" height="54" rx="2"></rect>
+            <text id="Asset-URL" font-family="DINPro-Medium, DINPro" font-size="24" font-weight="400" fill="#FFFFFF">
+                <tspan x="0" y="115">Asset URL</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FFFFFF" x="186" y="245" width="281" height="54" rx="2"></rect>
+            <text id="Metric-2" font-family="DINPro-Medium, DINPro" font-size="24" font-weight="400" fill="#FFFFFF">
+                <tspan x="0" y="278">Metric 2</tspan>
+            </text>
+            <rect id="Rectangle-Copy" fill="#FFFFFF" x="186" y="326" width="281" height="54" rx="2"></rect>
+            <text id="Metric-3" font-family="DINPro-Medium, DINPro" font-size="24" font-weight="400" fill="#FFFFFF">
+                <tspan x="0" y="359">Metric 3</tspan>
+            </text>
+            <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="186" y="416" width="281" height="54" rx="2"></rect>
+            <text id="Metric-4" font-family="DINPro-Medium, DINPro" font-size="24" font-weight="400" fill="#FFFFFF">
+                <tspan x="0" y="449">Metric 4</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FFFFFF" x="186" y="163" width="281" height="54" rx="2"></rect>
+            <text id="Metric-1" font-family="DINPro-Medium, DINPro" font-size="24" font-weight="400" fill="#FFFFFF">
+                <tspan x="0" y="196">Metric 1</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FFFFFF" x="186" y="0" width="281" height="54" rx="2"></rect>
+            <text id="Asset-Name" font-family="DINPro-Medium, DINPro" font-size="24" font-weight="400" fill="#FFFFFF">
+                <tspan x="0" y="33">Asset Name  </tspan>
+            </text>
+            <text id="Asset-URL-Copy" font-family="DINPro-Regular, DINPro" font-size="24" font-weight="normal" fill="#132C4A">
+                <tspan x="271" y="117">Asset URL</tspan>
+            </text>
+            <text id="Metric-2-Copy" font-family="DINPro-Regular, DINPro" font-size="24" font-weight="normal" fill="#132C4A">
+                <tspan x="283" y="280">Metric 2</tspan>
+            </text>
+            <text id="Metric-3-Copy" font-family="DINPro-Regular, DINPro" font-size="24" font-weight="normal" fill="#132C4A">
+                <tspan x="283" y="362">Metric 3</tspan>
+            </text>
+            <text id="Metric-4-Copy" font-family="DINPro-Regular, DINPro" font-size="24" font-weight="normal" fill="#132C4A">
+                <tspan x="283" y="451">Metric 4</tspan>
+            </text>
+            <text id="Metric-1-Copy" font-family="DINPro-Regular, DINPro" font-size="24" font-weight="normal" fill="#132C4A">
+                <tspan x="283" y="196">Metric 1</tspan>
+            </text>
+            <text id="Asset-Name" font-family="DINPro-Regular, DINPro" font-size="24" font-weight="normal" fill="#132C4A">
+                <tspan x="256" y="32">Asset Name  </tspan>
+            </text>
+        </g>
+    </g>
+</svg>
